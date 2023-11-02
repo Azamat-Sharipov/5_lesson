@@ -1,0 +1,84 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+header{
+    background: rgb(207, 220, 220);
+    height: 100vh;
+}
+
+.title{
+    text-align: center;
+    font-size: 40px;
+    
+}
+
+.header-text{
+    text-align: center;
+    font-size: 15px;
+    padding: 20px 0px;
+}
+
+.header-img{
+    width: 100%;
+    text-align: center;
+    padding: 20px;
+}
+
+.header-img img{
+    text-align: center;
+    width: 700px;
+    padding-top: 50px;
+}
+
+.btns{
+    text-align: center;
+    padding-top: 25px;
+}
+
+.produckt-btn{
+    background: #6F2CFF;
+    color: wheat;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 20px;
+    margin: 10px;
+}
+
+
+.demo-btn{
+    color: #6F2CFF;
+    background: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 20px;
+    margin: 10px;
+}
+
+.brands{
+    text-align: center;
+    padding-top: 30px;
+    margin: 30px 0px;
+    font-size: 40px;
+}
+
+.card{
+    width: 320px;
+    display: inline-block;
+    background: rgb(179, 205, 205);
+    border-radius: 10px;
+    text-align: center;
+    border-radius: 10px;
+    margin: 10px;
+}
+
+.card small{
+    padding: 20x 0px;
+}
+
+.card p{
+    width: 320px;
+    background: rgb(179, 205, 205);
+    color: #6F2CFF;
+}
